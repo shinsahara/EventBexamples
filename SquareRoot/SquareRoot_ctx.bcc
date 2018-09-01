@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<org.eventb.core.scContextFile org.eventb.core.accurate="true" org.eventb.core.configuration="org.eventb.core.fwd">
+<org.eventb.core.scExtendsContext name="'" org.eventb.core.scTarget="/SquareRoot/Theories.bcc|org.eventb.core.scContextFile#Theories" org.eventb.core.source="/SquareRoot/SquareRoot_ctx.buc|org.eventb.core.contextFile#SquareRoot_ctx|org.eventb.core.extendsContext#'"/>
+<org.eventb.core.scInternalContext name="Theories">
+<org.eventb.core.scAxiom name="'" org.eventb.core.label="thm1" org.eventb.core.predicate="⊤" org.eventb.core.source="/SquareRoot/Theories.buc|org.eventb.core.contextFile#Theories|org.eventb.core.axiom#'" org.eventb.core.theorem="true"/>
+<org.eventb.core.scAxiom name="(" org.eventb.core.label="thm2" org.eventb.core.predicate="⊤" org.eventb.core.source="/SquareRoot/Theories.buc|org.eventb.core.contextFile#Theories|org.eventb.core.axiom#(" org.eventb.core.theorem="true"/>
+<org.eventb.core.scAxiom name=")" org.eventb.core.label="thm3" org.eventb.core.predicate="⊤" org.eventb.core.source="/SquareRoot/Theories.buc|org.eventb.core.contextFile#Theories|org.eventb.core.axiom#)" org.eventb.core.theorem="true"/>
+<org.eventb.core.scAxiom name="*" org.eventb.core.label="thm4" org.eventb.core.predicate="⊤" org.eventb.core.source="/SquareRoot/Theories.buc|org.eventb.core.contextFile#Theories|org.eventb.core.axiom#*" org.eventb.core.theorem="true"/>
+</org.eventb.core.scInternalContext>
+<org.eventb.core.scAxiom name="Theoriet" org.eventb.core.label="axm1" org.eventb.core.predicate="⊤" org.eventb.core.source="/SquareRoot/SquareRoot_ctx.buc|org.eventb.core.contextFile#SquareRoot_ctx|org.eventb.core.axiom#)" org.eventb.core.theorem="true"/>
+</org.eventb.core.scContextFile>
